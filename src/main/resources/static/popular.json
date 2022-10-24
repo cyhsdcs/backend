@@ -1,0 +1,590 @@
+[
+  {
+    "id": 931,
+    "name": "多肉葡萄",
+    "no": "2002282994907759",
+    "description": "冷热皆宜 冷650ml 热500ml 人气Top1 当季巨峰葡萄回归，颗颗手剥，保留果肉完整肉感。搭配清雅绿妍茶底与醇香芝士，鲜爽可口。如选择原创0糖零卡糖，遇酸性水果会产生泡沫，属正常现象。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 1,
+    "images": [
+      {
+        "id": 229921,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/11/02/70ef62a60c92425cbd38306473b50726.jpg-app"
+      },
+      {
+        "id": 117056,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/03/04/1d874e762358478aa3ae4385a1397819.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/02/28/b280fca74f744e6896cabdb73ae31f47.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2140,
+        "no": "30300024",
+        "name": "多肉葡萄",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 15,
+        "name": "含乳制品、茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "29.00",
+    "un_include_tax_price": 27.36,
+    "include_take_self_tax_price": 27.36
+  },
+  {
+    "id": 941,
+    "name": "多肉芒芒甘露",
+    "no": "2002288368800095",
+    "description": "冷热皆宜 冷/热标准杯500ml 冷加大MAX杯650ml  人气Top2 经典芒芒与杨枝甘露的灵感碰撞，精选清幽绿妍茶底，爆汁红柚粒撞上大块芒肉。热饮默认加入芋圆波波，不含脆波波。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 2,
+    "images": [
+      {
+        "id": 226804,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/a1e9390aa2624b64aa9864e09a7a5422.jpg-app"
+      },
+      {
+        "id": 117044,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/03/04/dab56268b0fa44499f3255e95657cf18.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/02/28/4015de8912a14300a877b19569096cda.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2150,
+        "no": "30300032",
+        "name": "多肉芒芒甘露",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 15,
+        "name": "含乳制品、茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "27.00",
+    "un_include_tax_price": 25.47,
+    "include_take_self_tax_price": 25.47
+  },
+  {
+    "id": 932,
+    "name": "芝芝莓莓 ®",
+    "no": "2002285591289050",
+    "description": "冷热皆宜 冷650ml 热500ml 人气Top3 选用定制草莓搭配绿妍茶底新鲜现打，莓香满溢。如选择原创0糖零卡糖，遇酸性水果会产生泡沫，属正常现象。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 3,
+    "images": [
+      {
+        "id": 226821,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/d0ad710ef6024e4089a47d3a2ef8e1ba.jpg-app"
+      },
+      {
+        "id": 117035,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/03/04/66a64d27c2504838851ce69f2a901326.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/02/28/e75452c0d57443be87fdbe9b1dd61da5.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2141,
+        "no": "30100016",
+        "name": "芝芝莓莓 ®",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 15,
+        "name": "含乳制品、茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "32.00",
+    "un_include_tax_price": 30.19,
+    "include_take_self_tax_price": 30.19
+  },
+  {
+    "id": 935,
+    "name": "烤黑糖波波牛乳",
+    "no": "2002288501288017",
+    "description": "冷热皆宜 冷480ml 热500ml  人气Top4  黑波波搭配顺滑冷藏牛乳，波波系列奶味较为浓郁，不喜欢浓厚口感的朋友慎点。*若选择椰奶冻，则热饮默认分装椰奶冻，敬请谅解。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 4,
+    "images": [
+      {
+        "id": 226807,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/092699e96ce44f7ba15087df4ccc120e.jpg-app"
+      },
+      {
+        "id": 116588,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/03/03/b9a1a1446e114335b9319a3a82e5e99f.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/02/28/880caa818dd1464d99f1a3b15fc74408.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2144,
+        "no": "30400011",
+        "name": "烤黑糖波波牛乳",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 70,
+        "name": "含乳制品、不含茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "21.00",
+    "un_include_tax_price": 19.81,
+    "include_take_self_tax_price": 19.81
+  },
+  {
+    "id": 944,
+    "name": "满杯红柚",
+    "no": "2002289831003882",
+    "description": "冷热皆宜 冷650ml  热500ml 人气Top5 精选饱满红柚果粒入茶，清幽绿妍茶底洋溢茉莉花香。冰沙减弱了红柚的微苦，更凸显茶味。如选择原创0糖零卡糖，遇酸性水果会产生泡沫，属正常现象。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 5,
+    "images": [
+      {
+        "id": 226808,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/c1e95a0c2d0f44fd8edb40183acab9fa.jpg-app"
+      },
+      {
+        "id": 117022,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/03/04/07dae739032e4b5f9034c82cfad32aa4.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/02/28/b6041bf0a93046039123851d0250101f.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2153,
+        "no": "30300001",
+        "name": "满杯红柚",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 67,
+        "name": "含茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "25.00",
+    "un_include_tax_price": 23.58,
+    "include_take_self_tax_price": 23.58
+  },
+  {
+    "id": 1338,
+    "name": "生打椰椰奶冻",
+    "no": "2010274758190522",
+    "description": "冷热皆宜 冷/热500ml 人气Top6  仅选用优质生椰乳，保留椰子原始风味。椰香浓厚，质地如奶油般丝滑。搭配手工现制椰奶冻和脆波波，好清爽椰~*热饮默认分装椰奶冻及脆波波；*热饮选择雪山奶油顶易融化，推荐分装奶油顶，敬请谅解。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 6,
+    "images": [
+      {
+        "id": 226809,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/6a6cb1869a19499fb70dfdb63d3fc588.jpg-app"
+      },
+      {
+        "id": 226860,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/28/cf2db035220d4aab94be709ab646abf7.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/12/08/c6c7439949de4dc4a80809094ff73dbf.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 3022,
+        "no": "30300047",
+        "name": "生打椰椰奶冻",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气榜-主力",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "25.00",
+    "un_include_tax_price": 23.58,
+    "include_take_self_tax_price": 23.58
+  },
+  {
+    "id": 938,
+    "name": "芝芝芒芒 ®",
+    "no": "2002280824114931",
+    "description": "冷650ml 人气Top7 选用当季芒果搭配清幽绿妍茶底新鲜现制，清新绵密。如选择原创0糖零卡糖，遇酸性水果会产生泡沫，属正常现象。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 7,
+    "images": [
+      {
+        "id": 226813,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/22926337fb30401f84adb43775ddf8fc.jpg-app"
+      },
+      {
+        "id": 117074,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/03/04/fa956693617d4eecb733b4a7dc9dd333.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/02/28/41c6464515484d4797055629ea3ac978.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2147,
+        "no": "30100028",
+        "name": "芝芝芒芒 ®",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 15,
+        "name": "含乳制品、茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "32.00",
+    "un_include_tax_price": 30.19,
+    "include_take_self_tax_price": 30.19
+  },
+  {
+    "id": 1070,
+    "name": "芝芝莓莓桃",
+    "no": "2005182670291325",
+    "description": "冷热皆宜 冷650ml 热500ml 人气Top8 莓莓与桃桃的首次灵感混搭。莓莓沁入桃汁，搭配清雅绿妍茶底与浓醇芝士，一次喝到两款人气饮品。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 8,
+    "images": [
+      {
+        "id": 226814,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/27/0dfa6d41d14649b5acc5a30412589768.jpg-app"
+      },
+      {
+        "id": 150263,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/05/18/befb6794a056416cb6d2887e8950b99e.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/05/18/a7df1a4418d14475aab48a76268cc8d1.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 2433,
+        "no": "30300038",
+        "name": "芝芝莓莓桃",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 15,
+        "name": "含乳制品、茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气-普通",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "31.00",
+    "un_include_tax_price": 29.25,
+    "include_take_self_tax_price": 29.25
+  },
+  {
+    "id": 1344,
+    "name": "烤黑糖波波奶茶",
+    "no": "2011018750891062",
+    "description": "冷热皆宜 冷480ml 热500ml  人气Top9 选用定制嫣红茶底与冷藏牛乳灵感特调，花香高扬，入口丝滑。搭配现熬黑糖波波与黑糖布蕾，带来满分波波味觉体验。*若选择椰奶冻，则热饮默认分装椰奶冻，敬请谅解。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 9,
+    "images": [
+      {
+        "id": 229157,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/11/01/c1a3bfb85d5e4fd1917af135127fac91.jpg-app"
+      },
+      {
+        "id": 229162,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/11/01/53edbbaddb474a709138da1c9d44e6a1.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/11/01/2bbfadec4bb8488dbedbcc90ede6be28.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 3029,
+        "no": "30400175",
+        "name": "烤黑糖波波奶茶",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 123,
+        "name": "含乳及乳制品",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "22.00",
+    "un_include_tax_price": 20.75,
+    "include_take_self_tax_price": 20.75
+  },
+  {
+    "id": 1339,
+    "name": "芋泥波波牛乳",
+    "no": "2010273304877745",
+    "description": "冷热皆宜 冷/热500ml  人气Top10 默认冷饮，可做热。本品含有芋头，过敏人士请谨慎选择。因芋泥容易氧化，为保持最佳体验，请务必于一小时内饮用完毕。茶底可选冷藏牛乳/椰奶。新鲜芋泥融入顺滑冷藏牛乳，再加入颗颗Q弹的芋泥波波，绵密与润泽，尽在这一杯。*若选择椰奶冻，则热饮默认分装椰奶冻，敬请谅解。",
+    "label": "",
+    "category_id": 67,
+    "is_single": false,
+    "support_takeaway": 1,
+    "sort": 10,
+    "images": [
+      {
+        "id": 229920,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/11/02/f9e3d7b40deb49faa5a1cd1ccf24b6c7.jpg-app"
+      },
+      {
+        "id": 226861,
+        "url": "https://go.cdn.heytea.com/storage/product/2020/10/28/46dd65882dd1407aa5588960124a514f.jpg-app"
+      }
+    ],
+    "name_image": "https://go.cdn.heytea.com/storage/product/2020/12/08/900d086bee484f34b560733195ace91c.jpg",
+    "show_trademark": false,
+    "activity_ids": [
+
+    ],
+    "skus": [
+      {
+        "id": 3023,
+        "no": "30400019",
+        "name": "芋泥波波牛乳",
+        "appointable": false,
+        "is_join_queue": 1,
+        "is_now_making": 1
+      }
+    ],
+    "labels": [
+      {
+        "id": 14,
+        "name": "可做热饮",
+        "type": 0,
+        "label_color": "#5AA541"
+      },
+      {
+        "id": 70,
+        "name": "含乳制品、不含茶",
+        "type": 0,
+        "label_color": "#BABABA"
+      }
+    ],
+    "is_premade": "0",
+    "remark": "人气榜-主力",
+    "is_enable": 1,
+    "is_sold_out_forever": 0,
+    "has_box_fee": 1,
+    "tax_rate": 0.0600,
+    "take_self_rate": 0,
+    "price": "27.00",
+    "un_include_tax_price": 25.47,
+    "include_take_self_tax_price": 25.47
+  }
+]
